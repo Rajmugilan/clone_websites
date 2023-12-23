@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+clearpathrobotics.com	TRUE	/	FALSE	1999999999	apbct_site_landing_ts	1703245507
+clearpathrobotics.com	TRUE	/	FALSE	1999999999	ct_sfw_pass_key	ef6cde9b79afe9687dde85f1fb91c0a5
+clearpathrobotics.com	TRUE	/	FALSE	1999999999	apbct_timestamp	1703245674
+clearpathrobotics.com	TRUE	/	FALSE	1999999999	apbct_prev_referer	http%3A%2F%2Fclearpathrobotics.com%2Fwp-content%2Fplugins%2Fphoto-gallery%2Fcss%2Fjquery.mCustomScrollbar.min.css%3Fver%3D3.1.5
+clearpathrobotics.com	TRUE	/	FALSE	1999999999	apbct_page_hits	5
+clearpathrobotics.com	TRUE	/	FALSE	1999999999	apbct_cookies_test	%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_prev_referer%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%25221916891b018a8567b3bdc80f8a7a5326%2522%257D
+
